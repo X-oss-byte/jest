@@ -2,7 +2,7 @@
   "dependencies": {
     "@babel/preset-env": "^7.0.0",
     "@babel/preset-flow": "^7.0.0",
-    "@babel/preset-typescript": "^7.0.0",
+    "@babel/preset-typescript": "^7.28.5",
     "react": "18.2.0"
   },
   "jest": {
